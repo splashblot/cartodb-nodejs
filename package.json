@@ -4,12 +4,12 @@
   "private": false,
   "version": "0.5.1",
   "main": "index",
-  "url": "https://github.com/CartoDB/cartodb-nodejs",
+  "url": "https://github.com/splashblot/cartodb-nodejs",
   "license": "BSD-3-Clause",
   "repository": [
     {
       "type": "git",
-      "url": "git://github.com/CartoDB/cartodb-nodejs.git"
+      "url": "git://github.com/splashblot/cartodb-nodejs.git"
     }
   ],
   "author": {
