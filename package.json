@@ -2,7 +2,7 @@
   "name": "dronedb",
   "description": "DroneDB Node.js library",
   "private": false,
-  "version": "0.5.2",
+  "version": "0.5.1",
   "main": "index",
   "url": "https://github.com/splashblot/dronedb-nodejs",
   "license": "BSD-3-Clause",
