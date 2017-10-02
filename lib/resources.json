@@ -1,5 +1,5 @@
 {
-  "sql_api_url"     : "https://alpha.tileo.co/user/{{user}}/api/v2/sql",
-  "import_api_url"  : "https://alpha.tileo.co/user/{{user}}/api/v1/imports",
-  "maps_api_url"    : "https://alpha.tileo.co/user/{{user}}/api/v1/map/named"
+  "sql_api_url"     : "https://{{user}}.tileo.co/api/v2/sql",
+  "import_api_url"  : "https://{{user}}.tileo.co/api/v1/imports",
+  "maps_api_url"    : "https://{{user}}.tileo.co/api/v1/map/named"
 }
