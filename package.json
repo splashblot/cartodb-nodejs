@@ -1,15 +1,15 @@
 {
-  "name": "cartodb",
-  "description": "CartoDB Node.js library",
+  "name": "dronedb",
+  "description": "DroneDB Node.js library",
   "private": false,
-  "version": "0.5.1",
+  "version": "0.5.2",
   "main": "index",
-  "url": "https://github.com/splashblot/cartodb-nodejs",
+  "url": "https://github.com/splashblot/dronedb-nodejs",
   "license": "BSD-3-Clause",
   "repository": [
     {
       "type": "git",
-      "url": "git://github.com/splashblot/cartodb-nodejs.git"
+      "url": "git://github.com/splashblot/dronedb-nodejs.git"
     }
   ],
   "author": {
@@ -42,10 +42,10 @@
     "lint": "eslint -c .eslintrc lib"
   },
   "bin": {
-    "cartodb": "bin/sql.bin.js",
-    "cartodb-sql": "bin/sql.bin.js",
-    "carto-sql": "bin/sql.bin.js",
-    "cartodb-import": "bin/import.bin.js",
-    "carto-import": "bin/import.bin.js"
+    "dronedb": "bin/sql.bin.js",
+    "dronedb-sql": "bin/sql.bin.js",
+    "tileo-sql": "bin/sql.bin.js",
+    "dronedb-import": "bin/import.bin.js",
+    "tileo-import": "bin/import.bin.js"
   }
 }
